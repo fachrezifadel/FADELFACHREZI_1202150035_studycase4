@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FADELFACHREZI_1202150035_studycase4</string>
+    <string-array name="namaMhs">
+        <item>Tony Sucipto</item>
+        <item>Febri Hariyadi</item>
+        <item>Supardi Natsir</item>
+        <item>Dadan Natsir</item>
+        <item>Ezhechiel Ndousel</item>
+        <item>Ghozali Siregar</item>
+        <item>Baouman</item>
+        <item>Muchlis Hadi Ning</item>
+        <item>Panji Billy Keraf</item>
+        <item>Atep Rizal</item>
+        <item>Bojan Malisic</item>
+        <item>Michael Essien</item>
+        <item>Djajang Nurjaman</item>
+        <item> Persib Bandung</item>
+    </string-array>
+</resources>
